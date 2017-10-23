@@ -1,0 +1,50 @@
+###
+# Files to ignore in Version Control
+##
+
+##
+# Project Specific
+##
+
+.env
+node_modules/
+
+##
+# Framework
+##
+
+
+##
+# Common
+##
+
+*.bak
+*.log
+*.tmp
+
+storage/
+build/
+dist/
+
+
+##
+# OS Files
+##
+
+# Mac OS
+.DS_Store
+._*
+.Trashes/
+
+# Linux
+*~
+*.swp
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+
+# .gitignore
